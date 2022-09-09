@@ -181,7 +181,12 @@ let livObj = { "aircraft": [
   "livery": "2",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing p8I Neptune_427352_3292/texture_2.jpg"
   },
- {
+{
+  "name": "Airbus a320-214 (Test)",
+  "livery": "https://raw.githubusercontent.com/iuhairways/test/main/test.png",
+  "mptx": "https://raw.githubusercontent.com/iuhairways/test/main/test.png"
+  },
+	{
   "name": "Airbus a320neo (Indigo)",
   "livery": "1.5",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_1.5.jpg"
@@ -915,7 +920,7 @@ updateMultiplayer();
 //add helper tags to compatible aircraft
 document.querySelectorAll('[data-aircraft]').forEach(function(e){
    var elemName = e.outerText;
-    if (elemName.includes("Airbus a320neo (Iberia) (by Spice_9)") || elemName.includes("Boeing 737 Max 8 (TUI) (by Spice_9)") || elemName.includes("Boeing 787-10 Dreamliner (Etihad) (by Spice_9)") || elemName.includes("Airbus A319 (Finnair)  (by GT-VRA)")) {
+    if (elemName.includes("Airbus a320neo (Iberia) (by Spice_9)") || elemName.includes("Boeing 737 Max 8 (TUI) (by Spice_9)") || elemName.includes("Boeing 787-10 Dreamliner (Etihad) (by Spice_9)") || elemName.includes("airbus a320-214 (Easyjet) (by Spice_9)") || elemName.includes("Airbus A319 (Finnair)  (by GT-VRA)")) {
        e.innerHTML = e.innerHTML + " [Multiliveries Frame]"
     }
 });
