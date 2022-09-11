@@ -6,8 +6,8 @@ console.log("Loading...");
 let livObj = { "aircraft": [
   {
   "name": "Boeing 737 Max 8 (Jet Airways)",
-  "livery": "1",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_1.jpg"
+  "livery": "https://raw.githubusercontent.com/iuhairways/test/main/image%20(1).jpg",
+  "mptx": "https://raw.githubusercontent.com/iuhairways/test/main/image%20(1).jpg"
   },
   {
   "name": "Boeing 737 Max 8 (Akasa Air)",
