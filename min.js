@@ -5,9 +5,9 @@ console.log("Loading...");
 
 let livObj = { "aircraft": [
   {
-  "name": "Boeing 737 Max 8 (Jet Airways)",
-  "livery": "https://raw.githubusercontent.com/iuhairways/test/main/image%20(1).jpg",
-  "mptx": "https://raw.githubusercontent.com/iuhairways/test/main/image%20(1).jpg"
+  "name": "Boeing 737 Max 8 (qantas)",
+  "livery": "https://raw.githubusercontent.com/iuhairways/test/main/imageco.jpg",
+  "mptx": "https://raw.githubusercontent.com/iuhairways/test/main/imageco.jpg"
   },
   {
   "name": "Boeing 737 Max 8 (Akasa Air)",
