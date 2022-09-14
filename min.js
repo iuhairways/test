@@ -181,6 +181,11 @@ let livObj = { "aircraft": [
   "livery": "2",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing p8I Neptune_427352_3292/texture_2.jpg"
   },
+	{
+		"name": "ERJ-145 (loganair all whit)",
+		"livery": "https://raw.githubusercontent.com/iuhairways/test/main/imageloganair.jpg",
+		"mptx": "https://raw.githubusercontent.com/iuhairways/test/main/imageloganair.jpg"
+	},
 {
   "name": "Airbus a320-214 (Test)",
   "livery": "https://raw.githubusercontent.com/iuhairways/test/main/test.png",
