@@ -478,8 +478,8 @@ let livObj = { "aircraft": [
   },
      {
   "name": "Airbus a320neo (Air Malta) by me",
-  "livery": "https://raw.githubusercontent.com/iuhairways/test/main/image%20(12).jpg",
-  "mptx": "https://raw.githubusercontent.com/iuhairways/test/main/image%20(12).jpg"
+  "livery": "https://raw.githubusercontent.com/iuhairways/test/main/image%20(12)%20(1).jpg",
+  "mptx": "https://raw.githubusercontent.com/iuhairways/test/main/image%20(12)%20(1).jpg"
   },
      {
   "name": "Airbus a320neo (Thomas cook) by IUH Airways",
