@@ -477,9 +477,9 @@ let livObj = { "aircraft": [
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_154.jpg"
   },
      {
-  "name": "Airbus a320neo (Air Malta) by SriLankanflyer",
-  "livery": "158",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_158.jpg"
+  "name": "Airbus a320neo (Air Malta) by me",
+  "livery": "https://raw.githubusercontent.com/iuhairways/test/main/image%20(12).jpg",
+  "mptx": "https://raw.githubusercontent.com/iuhairways/test/main/image%20(12).jpg"
   },
      {
   "name": "Airbus a320neo (Thomas cook) by IUH Airways",
