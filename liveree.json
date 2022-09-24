@@ -37,9 +37,9 @@
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_6.1.jpg"
   },
   {
-  "name": "Boeing 737 Max 8 (United)",
-  "livery": "7",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_7.jpg"
+  "name": "Boeing 737 Max 8 (NOC)",
+  "livery": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_4.jpg",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_4.jpg"
   },
   {
   "name": "Boeing 737 Max 8 (Malaysia Airlines)",
